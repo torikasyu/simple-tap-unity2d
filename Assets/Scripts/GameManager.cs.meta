@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: dbf3c59452d8646e1840958606241fad
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
